@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndyZ-Salz
 - 👀 I’m interested in IoT Device
-- 🌱 I’m currently learning STM32
-- 💞️ I’m looking to collaborate on PCB design
+- 🌱 I’m currently learning Python&STM32
 - 📫 How to reach me : kaiyuezang@gmail.com
 
 <!---
